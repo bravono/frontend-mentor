@@ -1,5 +1,4 @@
 body {
-  padding: 0 20px;
   text-align: center;
   background-color: lightgray;
   font-size: 15px;
@@ -15,11 +14,8 @@ body {
   height: 100vh;
 }
 
-.heading {
-  font-weight: 700;
-}
-
 .box {
+  padding: 15px;
   background-color: white;
   border-radius: 15px;
   width: 15rem;
@@ -27,9 +23,13 @@ body {
 
 /* I used this to style the qr-code image  */
 .photo {
-  margin: 15px;
+  /* margin: 15px; */
   border-radius: 10px;
-  width: 13rem;
-  height: 13rem;
-  object-fit: cover;
+  width: inherit;
+  height: inherit;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 20px;
 }
