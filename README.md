@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/bravono/qr-code-component.git)
+- Live Site URL: (https://qr-code-component-three-nu.vercel.app/)
 
 ## My process
 
@@ -46,9 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned to how mix up the usage of flexbox and grid. This project made me realize,
-that flexbox is useful if you want your layout to be horizontal or vertical.
-I initial it works more like grid but know I understand the exact difference.
+I learned when to use a fixed size vs a dynamic one
 
 ## Author
 
