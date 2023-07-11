@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/QR_code_component.jpeg)
+![](./images/QR_code_component.png)
 
 ### Links
 
